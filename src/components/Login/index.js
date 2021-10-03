@@ -96,13 +96,13 @@ class Login extends Component {
     return (
       <div className="login-form-container">
         <img
-          src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-logo-img.png"
+          src="https://res.cloudinary.com/rizwan987/image/upload/v1633272580/Rectangle_1457_m5lm0c.png"
           className="login-website-logo-mobile-image"
           alt="website logo"
         />
         <form className="form-container" onSubmit={this.submitForm}>
           <img
-            src="https://res.cloudinary.com/dwyoocqij/image/upload/v1632727627/Vector_ibzmon.png"
+            src="https://res.cloudinary.com/rizwan987/image/upload/v1633170425/Rectangle_1456_gmu29p.png"
             className="login-website-logo-desktop-image"
             alt="website logo"
           />
@@ -116,7 +116,7 @@ class Login extends Component {
           {showSubmitError && <p className="error-message">{errorMsg}</p>}
         </form>
         <img
-          src="https://res.cloudinary.com/dwyoocqij/image/upload/v1632724869/Rectangle_1456_ldoknk.jpg"
+          src="https://res.cloudinary.com/rizwan987/image/upload/v1633170425/Rectangle_1456_gmu29p.png"
           className="login-image"
           alt="website login"
         />

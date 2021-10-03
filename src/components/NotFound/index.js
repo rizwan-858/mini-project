@@ -9,7 +9,7 @@ const NotFound = () => (
     <Header activeTab="CART" />
     <div className="not-found-container">
       <img
-        src="https://res.cloudinary.com/dwyoocqij/image/upload/v1632824731/erroring_1_uhawua.png"
+        src="https://res.cloudinary.com/rizwan987/image/upload/v1633273078/erroring_1_rxkz0k.png"
         alt="not found"
         className="not-found-img"
       />

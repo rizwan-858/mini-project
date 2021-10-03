@@ -7,7 +7,7 @@ const Payment = () => (
     <Header activeTab="CART" />
     <div className="payment-container">
       <img
-        src="https://res.cloudinary.com/dwyoocqij/image/upload/v1632984646/Vector_1_zcznkz.png"
+        src="https://res.cloudinary.com/rizwan987/image/upload/v1633273163/Vector_yo5bdq.png"
         alt="success"
       />
       <h1 className="payment-heading">Payment Successful</h1>

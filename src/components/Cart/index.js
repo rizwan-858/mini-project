@@ -57,7 +57,7 @@ class Cart extends Component {
   renderEmptyCart = () => (
     <div className="empty-card-container">
       <img
-        src="https://res.cloudinary.com/dbcjaxxjm/image/upload/v1626187770/Tasty%20Kitchens%20App%20Assests/cooking_1_zkjdvq.png"
+        src="https://res.cloudinary.com/rizwan987/image/upload/v1633272729/cooking_1_cq8czz.png"
         alt="cooking"
         className="cooking-image"
       />

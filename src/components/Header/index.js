@@ -30,7 +30,7 @@ const Header = props => {
       <Link to="/" className="header-link">
         <div className="header-nav-website-logo-container">
           <img
-            src="https://res.cloudinary.com/dbcjaxxjm/image/upload/v1625741571/Tasty%20Kitchens%20App%20Assests/Frame_274_tastyHat_lgmw8o.png"
+            src="https://res.cloudinary.com/rizwan987/image/upload/v1633272884/Frame_274_cgmw8d.png"
             alt="website logo"
             className="nav-website-logo"
           />

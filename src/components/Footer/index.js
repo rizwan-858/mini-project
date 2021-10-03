@@ -11,7 +11,7 @@ const Footer = () => (
   <div className="footer-container">
     <div className="footer-website-container">
       <img
-        src="https://res.cloudinary.com/dbcjaxxjm/image/upload/v1625840291/Tasty%20Kitchens%20App%20Assests/Group_7420_whiteHat_w8pk6e.png"
+        src="https://res.cloudinary.com/rizwan987/image/upload/v1633272401/footerLogo_btgo3d.png"
         alt="website-footer-logo"
         className="footer-website-logo"
       />
